@@ -9,5 +9,5 @@ vim plugin :
 
 vimrc : .vimrc(location : ~/.vimrc)
 terminal plugin : tmux (tmuxconfig file : .tmux.confi, location : ~/.tmux.conf)
-
+install tmux : sudo apt-get install tmux
 
